@@ -1,5 +1,4 @@
-﻿function Get-Time {
-aaa
+﻿function Get-Time {12
    [CmdletBinding()]
    param(
       [Parameter(Position=0, Mandatory=$true)]
