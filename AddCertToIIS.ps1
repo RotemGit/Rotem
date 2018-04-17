@@ -1,5 +1,5 @@
 PS: 
-
+Hi
 certutil -p letmein*SSL -importpfx \\netapp-ams-cifs\IT\Installs\Certificate\2014-2017\iforex.co.uk2015\ST
 
 fxtrd-iis-pr1
